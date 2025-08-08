@@ -169,7 +169,7 @@
   }
   
   .left, .right {
-    flex: 1 1 300px;
+    flex: 1 1 147px;
     text-align: center;
   }
   
@@ -644,3 +644,4 @@ box-sizing: border-box;
     }
   }
   
+
