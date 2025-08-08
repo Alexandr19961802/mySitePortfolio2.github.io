@@ -212,7 +212,6 @@
     max-width: 280px;
     height: auto;
     object-fit: cover;
-    border-radius: 140px 140px 0 0;
     aspect-ratio: 2/3;
     border: 1px solid #000;
   }
@@ -264,7 +263,6 @@
   
     .center-image img {
       max-width: 220px;
-      border-radius: 110px 110px 0 0;
     }
   }
   .about-section {  border-top: solid 1px black;
@@ -644,4 +642,3 @@ box-sizing: border-box;
     }
   }
   
-
